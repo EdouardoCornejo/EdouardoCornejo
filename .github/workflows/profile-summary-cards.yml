@@ -1,0 +1,29 @@
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # diario
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate GitHub profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: github_dark
+        with:
+          USERNAME: EduardoCornejo
+          UTC_OFFSET: -6
+          BRANCH_NAME: main
+          AUTO_PUSH: true

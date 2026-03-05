@@ -1,0 +1,38 @@
+name: Metrics
+
+on:
+  schedule: [{ cron: "0 0 * * *" }] # diario
+  workflow_dispatch:
+  push: { branches: ["main", "master"] }
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: EduardoCornejo
+          template: classic
+          filename: github-metrics.svg
+          base: header, activity, community, repositories
+
+          # commits/activity + patterns/habits
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # languages
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+
+          # stars
+          plugin_stars: yes
+          plugin_stars_limit: 6
+
+          # calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
