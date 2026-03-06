@@ -21,7 +21,13 @@ jobs:
           template: classic
           filename: github-metrics.svg
 
-          base: repositories
+          base: header, repositories
+
+          # Streak + commits/day
+          plugin_habits: no
+          plugin_habits_facts: no
+          plugin_habits_charts: no
+          config_timezone: America/Mexico_City
 
           # Contributions calendar 3D/isometrics
           plugin_isocalendar: yes
