@@ -175,7 +175,6 @@ width="540"
 &nbsp;
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdouardoCornejo&theme=tokyonight" alt="Most Commit Language"/>
 &nbsp;
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EdouardoCornejo&theme=tokyonight&utcOffset=-6" alt="Productive Time"/>
 
 <br/>
 
@@ -207,7 +206,7 @@ width="540"
 <!--                    SNAKE CONTRIBUTIONS                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🐍 Contributions</h2>
+<h2 align="center">🎮🐍👾 Contributions</h2>
 
 <div align="center">
 
@@ -226,22 +225,35 @@ width="540"
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    SPOTIFY NOW PLAYING                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🎧 Now Playing</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=1DB954&center=true&vCenter=true&width=780&lines=%F0%9F%8E%A7+Now+Playing+on+Spotify"
+    alt="Now Playing on Spotify"
+  />
+</p>
 
 <div align="center">
-
-<a href="https://open.spotify.com/user/am39llhr0gkpbeklf1emwm106">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=am39llhr0gkpbeklf1emwm106&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d4ff&bar_color_cover=false" alt="Spotify Now Playing" width="430"/>
-</a>
-
+  <a href="https://open.spotify.com/user/am39llhr0gkpbeklf1emwm106">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=am39llhr0gkpbeklf1emwm106&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=58A6FF&bar_color_cover=false"
+      alt="Spotify Now Playing"
+      width="430"
+    />
+  </a>
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          FOOTER                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
