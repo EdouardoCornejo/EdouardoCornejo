@@ -1,145 +1,255 @@
-<!-- =======================
-      PROFILE README — Eduardo Cornejo
-======================== -->
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║            PROFILE README — Eduardo Cornejo                 ║
+     ║            Theme: Cyber Night · Cyan + Purple               ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Eduardo%20Cornejo&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20NestJS%20%7C%20Prisma&descAlignY=60" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;React+%E2%80%A2+NestJS+%E2%80%A2+Prisma;TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+GraphQL;Clean+Code+%E2%80%A2+SOLID"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          HEADER                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/luis-eduardo-cornejo-rinc%C3%B3n-1467b81b8/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:a855f7&height=220&section=header&text=Eduardo%20Cornejo&fontSize=50&fontColor=e6edf3&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%C2%B7%20React%20%C2%B7%20NestJS%20%C2%B7%20Prisma&descSize=16&descAlignY=55&descAlign=50" width="100%" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=TypeScript+%E2%80%A2+React+%E2%80%A2+NestJS+%E2%80%A2+Prisma;Architecture+that+scales+%E2%80%A2+Code+that+lasts;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
 </a>
 
-<br>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=EdouardoCornejo&style=for-the-badge&color=8957e5&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/EdouardoCornejo?style=for-the-badge&color=ffd33d&labelColor=282a36&logo=github&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/EdouardoCornejo?style=for-the-badge&color=1f6feb&labelColor=282a36&logo=github&label=STARS"/>
-<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=REPOS&style=for-the-badge&color=&labelColor=282a36&query=%24.public_repos&url=https://api.github.com/users/EdouardoCornejo"/>
-</p>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/luis-eduardo-cornejo-rinc%C3%B3n-1467b81b8/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=EdouardoCornejo&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/EdouardoCornejo?style=for-the-badge&color=a855f7&labelColor=0d1117&logo=github&label=FOLLOWERS)
+![Repos](https://img.shields.io/badge/dynamic/json?logo=github&label=REPOS&style=for-the-badge&color=22c55e&labelColor=0d1117&query=%24.public_repos&url=https://api.github.com/users/EdouardoCornejo)
+
 </div>
 
----
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                             About                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-# 👨‍💻 About
-
-Full Stack Developer focused on building scalable APIs and clean frontend architectures.
-
-**Practices**
-
-SOLID • Clean Code • DRY • REST APIs 
-
-
----
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           Tech Stack                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<p align="center">
-<h2 align="center">🧰 Tech Stack</h2>
-
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="46"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="46"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="46"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="46"/></a>
-<a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="46"/></a>
-<a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="46"/></a>
-<a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="46"/></a>
-<a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="46"/></a>
-<a href="https://nestjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="46"/></a>
-<a href="https://graphql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="46"/></a>
-<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="46"/></a>
-<a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="46"/></a>
-<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="46"/></a>
-<a href="https://www.prisma.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="46"/></a>
-<a href="https://jestjs.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="46"/></a>
-<a href="https://storybook.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="46"/></a>
-<a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="46"/></a>
-<a href="https://yarnpkg.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="46"/></a>
-<a href="https://bun.sh/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" width="46"/></a>
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46"/></a>
-<a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="46"/></a>
-<a href="https://gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="46"/></a>
-</p>
-
-</p>
-
----
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           Statistics                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-## 📊 Statistics
-<p align="center">
- <img height="180" alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdouardoCornejo&theme=github_dark"/>  <img height="180" alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdouardoCornejo&theme=github_dark"/> 
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=EdouardoCornejo&theme=github-dark"/>
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                              Metrics                            -->
+<!--                         ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">Metrics</h2>
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="Metrics" width="100%"/>
-</p> 
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"/>
+  &nbsp;About Me
+</h2>
+
+<div align="center">
+
+Full Stack Developer focused on building **scalable APIs** and **clean frontend architectures**.
+
+<br/>
+
+🏗️ &nbsp;Specialist in **React · NestJS · Prisma · TypeScript**<br/>
+🧠 &nbsp;Passionate about **Clean Code · SOLID · DRY · REST APIs**<br/>
+🎯 &nbsp;Interests: **System Design · Cloud Architecture · Developer Experience**<br/>
+🚀 &nbsp;Goal: Build **high-impact digital products** with maintainable code<br/>
+📖 &nbsp;Always learning — exploring **Advanced GraphQL · Microservices · Cloud Native**<br/>
+💬 &nbsp;Ask me about **NestJS, React, Prisma, System Design**
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          Contributions                          -->
+<!--                      CODE PHILOSOPHY                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2></h2>
-# 🐍 Contributions
 
-<p align="center">
+<h2 align="center">⚡ Code Philosophy</h2>
+
+<div align="center">
+
+<img
+src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=00eaff&authorColor=66f7ff&backgroundColor=0a0f1c&borderColor=00eaff&symbolColor=00eaff"
+width="540"
+/>
+
+![Clean Code](https://img.shields.io/badge/Clean_Code-00d4ff?style=flat-square&logoColor=0d1117)
+![SOLID](https://img.shields.io/badge/SOLID-a855f7?style=flat-square&logoColor=0d1117)
+![DRY](https://img.shields.io/badge/DRY-22c55e?style=flat-square&logoColor=0d1117)
+![REST APIs](https://img.shields.io/badge/REST_APIs-f97316?style=flat-square&logoColor=0d1117)
+![TDD](https://img.shields.io/badge/TDD-00d4ff?style=flat-square&logoColor=0d1117)
+![DDD](https://img.shields.io/badge/DDD-a855f7?style=flat-square&logoColor=0d1117)
+![SDD](https://img.shields.io/badge/SDD-a855f7?style=flat-square&logoColor=0d1117)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        TECH STACK                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/juua9i2c4fWjkATFHV/giphy.gif" width="28"/>
+  &nbsp;Tech Stack
+</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,redux,nestjs,nodejs,express,graphql,postgres,mongodb,mysql,prisma,jest,storybook,git,github,gitlab,npm,yarn,bun,vscode&perline=8&theme=dark" alt="Tech Stack"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB ANALYTICS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>
+  &nbsp;GitHub Analytics
+</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://readme-stats-fast.vercel.app/api?username=EdouardoCornejo&show_icons=true&hide=stars&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=e6edf3&icon_color=a855f7&include_all_commits=true"
+        alt="GitHub Stats"
+        height="190"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://streak-stats.demolab.com?user=EdouardoCornejo&hide_border=true&background=0d1117&stroke=30363d&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681"
+        alt="GitHub Streak"
+        height="190"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img
+        src="https://readme-stats-fast.vercel.app/api/top-langs/?username=EdouardoCornejo&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=e6edf3&langs_count=8"
+        alt="Top Languages"
+        height="190"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=EdouardoCornejo&bg_color=0d1117&color=e6edf3&line=00d4ff&point=a855f7&area=true&hide_border=true"
+        alt="Contribution Activity"
+        height="190"
+      />
+    </td>
+  </tr>
+</table>
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       ACHIEVEMENTS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=EdouardoCornejo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"
+  alt="Trophies"
+  width="800"
+/>
+
+</div> -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     PROFILE SUMMARY                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📊 Profile Summary</h2>
+
+<div align="center">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdouardoCornejo&theme=tokyonight" alt="Repos per Language"/>
+&nbsp;
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdouardoCornejo&theme=tokyonight" alt="Most Commit Language"/>
+&nbsp;
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EdouardoCornejo&theme=tokyonight&utcOffset=-6" alt="Productive Time"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdouardoCornejo&theme=tokyonight" width="100%" alt="Profile Details"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  3D CONTRIBUTION SKYLINE                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🌃 3D Contribution Skyline</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-cyber-night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-cyber-night-static.svg" />
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-cyber-night.svg" width="100%" />
+</picture>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SNAKE CONTRIBUTIONS                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🐍 Contributions</h2>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/github-snake.svg"/>
   <img alt="github snake" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/github-snake-dark.svg" width="100%"/>
 </picture>
-</p>
 
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          NOW PLAYING                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=1DB954&center=true&vCenter=true&width=780&lines=%F0%9F%8E%A7+Now+Playing+on+Spotify"
-    alt="Now Playing on Spotify"
-  />
-</p>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/am39llhr0gkpbeklf1emwm106">
-    <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=am39llhr0gkpbeklf1emwm106&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=58A6FF&bar_color_cover=false"
-      alt="Spotify Now Playing"
-      width="430"
-    />
-  </a>
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SPOTIFY NOW PLAYING                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🎧 Now Playing</h2>
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/am39llhr0gkpbeklf1emwm106">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=am39llhr0gkpbeklf1emwm106&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d4ff&bar_color_cover=false" alt="Spotify Now Playing" width="430"/>
+</a>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          FOOTER                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:a855f7&height=120&section=footer" width="100%"/>
+
+</div>

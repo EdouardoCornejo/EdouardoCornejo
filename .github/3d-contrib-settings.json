@@ -1,0 +1,24 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-cyber-night.svg",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#e6edf3",
+    "strongColor": "#00d4ff",
+    "weakColor": "#30363d",
+    "radarColor": "#a855f7CC",
+    "growingAnimation": true,
+    "contribColors": ["#161b22", "#0d3b52", "#0a6e8a", "#00a4cc", "#00d4ff"]
+  },
+  {
+    "type": "normal",
+    "fileName": "profile-cyber-night-static.svg",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#e6edf3",
+    "strongColor": "#00d4ff",
+    "weakColor": "#30363d",
+    "radarColor": "#a855f7CC",
+    "growingAnimation": false,
+    "contribColors": ["#161b22", "#0d3b52", "#0a6e8a", "#00a4cc", "#00d4ff"]
+  }
+]
