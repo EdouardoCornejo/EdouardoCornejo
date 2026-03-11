@@ -52,7 +52,7 @@ Full Stack Developer focused on building **scalable APIs** and **clean frontend 
 🧠 &nbsp;Passionate about **Clean Code · SOLID · DRY · REST APIs**<br/>
 🎯 &nbsp;Interests: **System Design · Cloud Architecture · Developer Experience**<br/>
 🚀 &nbsp;Goal: Build **high-impact digital products** with maintainable code<br/>
-📖 &nbsp;Always learning — exploring **Advanced GraphQL · Microservices · Cloud Native**<br/>
+📖 &nbsp;Always learning — exploring **AI · Microservices · Cloud Native**<br/>
 💬 &nbsp;Ask me about **NestJS, React, Prisma, System Design**
 
 </div>
