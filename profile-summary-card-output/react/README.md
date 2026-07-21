@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/main/profile-summary-card-output/react/2-most-commit-language.svg)
-```
-
-    
