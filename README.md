@@ -230,77 +230,46 @@ width="540"
 
 <img alt="space shooter contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/space-shooter.gif" width="100%"/>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/breakout-light.svg">
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/breakout-dark.svg" width="100%">
+</picture>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <b>🧱 Breakout</b><br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/breakout-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/breakout-light.svg">
-        <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/breakout-dark.svg" width="100%">
-      </picture>
-    </td>
-    <td align="center" width="50%">
-      <b>🚀 Galaga</b><br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/galaga-contribution-graph-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/galaga-contribution-graph.svg">
-        <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/galaga-contribution-graph-dark.svg" width="100%">
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>💣 Bomberman</b><br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/bomberman-contribution-graph-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/bomberman-contribution-graph.svg">
-        <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/bomberman-contribution-graph-dark.svg" width="100%">
-      </picture>
-    </td>
-    <td align="center" width="50%">
-      <b>💠 Minesweeper</b><br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/minesweeper-contribution-graph-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/minesweeper-contribution-graph.svg">
-        <img alt="minesweeper contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/minesweeper-contribution-graph-dark.svg" width="100%">
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>🫧 Puzzle Bobble</b><br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/puzzle-bobble-contribution-graph-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/puzzle-bobble-contribution-graph.svg">
-        <img alt="puzzle bobble contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/puzzle-bobble-contribution-graph-dark.svg" width="100%">
-      </picture>
-    </td>
-    <td align="center" width="50%">
-      <b>👾 Invaders</b><br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/invaders-dark.svg">
-        <img alt="contribution invaders" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/invaders.svg" width="100%">
-      </picture>
-      <br/><sub>Made with <a href="https://github.com/KrasimirKralev/contribution-invaders">Contribution Invaders</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <b>✨ Gravity FX</b><br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/contribution-fx-dark.svg">
-        <img alt="contribution-fx gravity" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/contribution-fx.svg" width="100%">
-      </picture>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/galaga-contribution-graph-dark.svg" width="100%">
+</picture>
 
-<h3 align="center">🏙️ GitWorld</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/bomberman-contribution-graph.svg">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/bomberman-contribution-graph-dark.svg" width="100%">
+</picture>
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/minesweeper-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/minesweeper-contribution-graph.svg">
+  <img alt="minesweeper contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/minesweeper-contribution-graph-dark.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/puzzle-bobble-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/puzzle-bobble-contribution-graph.svg">
+  <img alt="puzzle bobble contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/puzzle-bobble-contribution-graph-dark.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/invaders-dark.svg">
+  <img alt="contribution invaders" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/invaders.svg" width="100%">
+</picture>
+<sub>Made with <a href="https://github.com/KrasimirKralev/contribution-invaders">Contribution Invaders</a></sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/contribution-fx-dark.svg">
+  <img alt="contribution-fx gravity" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/contribution-fx.svg" width="100%">
+</picture>
 
 <img alt="GitWorld animated city" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/gitworld.svg" width="100%"/>
 
