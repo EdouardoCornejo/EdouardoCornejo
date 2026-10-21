@@ -11,20 +11,17 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate pacman graph
+      - name: Generate arcade graphs (pacman, galaga, bomberman, minesweeper, puzzle-bobble)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-
-      - name: Prepare pacman files
-        run: |
-          mkdir -p dist
-          cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph.svg || true
+          games: "pacman,galaga,bomberman,minesweeper,puzzle-bobble"
 
       - name: Generate snake svgs
         uses: Platane/snk/svg-only@v3
@@ -34,9 +31,74 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      # Los pasos siguientes usan continue-on-error: si alguno falla,
+      # no rompe el resto y se conserva su SVG anterior (keep_files).
+
+      - name: Generate space shooter gif
+        continue-on-error: true
+        uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: dist/space-shooter.gif
+          strategy: random
+          no-commit: true
+
+      - name: Generate breakout svgs
+        continue-on-error: true
+        uses: cyprieng/github-breakout@v1
+        with:
+          github_username: ${{ github.repository_owner }}
+
+      - name: Move breakout svgs to dist
+        continue-on-error: true
+        run: |
+          mkdir -p dist
+          mv output/light.svg dist/breakout-light.svg
+          mv output/dark.svg dist/breakout-dark.svg
+
+      - name: Generate contribution-fx svgs
+        continue-on-error: true
+        uses: Sur1ive/contribution-fx@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/contribution-fx.svg?theme=gravity
+            dist/contribution-fx-dark.svg?theme=gravity&mode=dark
+
+      - name: Generate GitWorld svg
+        continue-on-error: true
+        uses: Dasmat13/git-world-action@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          svg_out_path: dist/gitworld.svg
+
+      - name: Generate contribution invaders svgs
+        continue-on-error: true
+        uses: KrasimirKralev/contribution-invaders@v0.1.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/invaders.svg
+            dist/invaders-dark.svg?palette=dark
+
+      - name: Generate splatoon battle svgs
+        continue-on-error: true
+        uses: crosscore/contribution-gallery@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          color_snake_1: "#00D4FF"
+          color_snake_2: "#A855F7"
+          color_trail_1: "#7FE9FF"
+          color_trail_2: "#D0A8FB"
+          outputs: |
+            dist/splatoon.svg
+            dist/splatoon-dark.svg?palette=dark
+
       - name: Publish all assets to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
+          keep_files: true

@@ -148,18 +148,13 @@ width="540"
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       ACHIEVEMENTS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 
 <h2 align="center">🏆 Achievements</h2>
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=EdouardoCornejo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"
-  alt="Trophies"
-  width="800"
-/>
+<img src="./github-metrics.svg" alt="GitHub Metrics & Achievements" width="100%"/>
 
-</div> -->
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
@@ -222,6 +217,100 @@ width="540"
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/pacman-contribution-graph.svg">
 </picture>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       ARCADE ZONE                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🕹️ Arcade Zone</h2>
+
+<div align="center">
+
+<img alt="space shooter contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/space-shooter.gif" width="100%"/>
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>🧱 Breakout</b><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/breakout-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/breakout-light.svg">
+        <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/breakout-dark.svg" width="100%">
+      </picture>
+    </td>
+    <td align="center" width="50%">
+      <b>🚀 Galaga</b><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/galaga-contribution-graph-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/galaga-contribution-graph.svg">
+        <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/galaga-contribution-graph-dark.svg" width="100%">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>💣 Bomberman</b><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/bomberman-contribution-graph-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/bomberman-contribution-graph.svg">
+        <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/bomberman-contribution-graph-dark.svg" width="100%">
+      </picture>
+    </td>
+    <td align="center" width="50%">
+      <b>💠 Minesweeper</b><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/minesweeper-contribution-graph-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/minesweeper-contribution-graph.svg">
+        <img alt="minesweeper contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/minesweeper-contribution-graph-dark.svg" width="100%">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>🫧 Puzzle Bobble</b><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/puzzle-bobble-contribution-graph-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/puzzle-bobble-contribution-graph.svg">
+        <img alt="puzzle bobble contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/puzzle-bobble-contribution-graph-dark.svg" width="100%">
+      </picture>
+    </td>
+    <td align="center" width="50%">
+      <b>👾 Invaders</b><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/invaders-dark.svg">
+        <img alt="contribution invaders" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/invaders.svg" width="100%">
+      </picture>
+      <br/><sub>Made with <a href="https://github.com/KrasimirKralev/contribution-invaders">Contribution Invaders</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>✨ Gravity FX</b><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/contribution-fx-dark.svg">
+        <img alt="contribution-fx gravity" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/contribution-fx.svg" width="100%">
+      </picture>
+    </td>
+    <td align="center" width="50%">
+      <b>🦑 Territory Battle</b><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/splatoon-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/splatoon.svg">
+        <img alt="splatoon territory battle" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/splatoon-dark.svg" width="100%">
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">🏙️ GitWorld</h3>
+
+<div align="center">
+
+<img alt="GitWorld animated city" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/gitworld.svg" width="100%"/>
 
 </div>
 

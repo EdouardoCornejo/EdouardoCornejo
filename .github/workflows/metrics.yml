@@ -36,3 +36,8 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
+
+          # Achievements (rangos S/A/B)
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
