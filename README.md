@@ -145,17 +145,6 @@ width="540"
 </table>
 
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ACHIEVEMENTS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">🏆 Achievements</h2>
-
-<div align="center">
-
-<img src="./github-metrics.svg" alt="GitHub Metrics & Achievements" width="100%"/>
-
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -224,8 +213,6 @@ width="540"
 <!--                       ARCADE ZONE                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🕹️ Arcade Zone</h2>
-
 <div align="center">
 
 <img alt="space shooter contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/space-shooter.gif" width="100%"/>
@@ -254,6 +241,7 @@ width="540"
   <img alt="minesweeper contribution graph" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/minesweeper-contribution-graph-dark.svg" width="100%">
 </picture>
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/puzzle-bobble-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/puzzle-bobble-contribution-graph.svg">
@@ -265,6 +253,7 @@ width="540"
   <img alt="contribution invaders" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/invaders.svg" width="100%">
 </picture>
 <sub>Made with <a href="https://github.com/KrasimirKralev/contribution-invaders">Contribution Invaders</a></sub>
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/contribution-fx-dark.svg">
