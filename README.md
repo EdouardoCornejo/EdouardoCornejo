@@ -100,6 +100,26 @@ width="540"
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          PORTFOLIO                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🖥️ Portfolio</h2>
+
+<div align="center">
+
+<a href="https://portfolio-livid-kappa-s1xb9fgcl6.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-EduOS-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
+</a>
+
+<br/>
+
+<sub>A desktop operating system in the browser — Next.js · React · TypeScript</sub>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     GITHUB ANALYTICS                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
