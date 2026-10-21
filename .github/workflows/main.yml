@@ -82,19 +82,6 @@ jobs:
             dist/invaders.svg
             dist/invaders-dark.svg?palette=dark
 
-      - name: Generate splatoon battle svgs
-        continue-on-error: true
-        uses: crosscore/contribution-gallery@v1
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          color_snake_1: "#00D4FF"
-          color_snake_2: "#A855F7"
-          color_trail_1: "#7FE9FF"
-          color_trail_2: "#D0A8FB"
-          outputs: |
-            dist/splatoon.svg
-            dist/splatoon-dark.svg?palette=dark
-
       - name: Publish all assets to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:

@@ -288,19 +288,11 @@ width="540"
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" colspan="2">
       <b>✨ Gravity FX</b><br/>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/contribution-fx-dark.svg">
         <img alt="contribution-fx gravity" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/contribution-fx.svg" width="100%">
-      </picture>
-    </td>
-    <td align="center" width="50%">
-      <b>🦑 Territory Battle</b><br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/splatoon-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/splatoon.svg">
-        <img alt="splatoon territory battle" src="https://raw.githubusercontent.com/EdouardoCornejo/EdouardoCornejo/output/splatoon-dark.svg" width="100%">
       </picture>
     </td>
   </tr>
