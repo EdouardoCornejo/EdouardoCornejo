@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="18" viewBox="0 0 860 18" fill="none" role="img" aria-labelledby="t d">
+<title id="t">Divider</title><desc id="d">Divider</desc>
+<style>
+text{font-kerning:normal;text-rendering:geometricPrecision}
+@keyframes dvrun{from{stroke-dashoffset:12}to{stroke-dashoffset:-108}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs><linearGradient id="dv" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#f0b48a" stop-opacity="0"/><stop offset=".5" stop-color="#ffd9a8"/><stop offset="1" stop-color="#b77df0" stop-opacity="0"/>
+</linearGradient></defs>
+<path d="M-10 12C220 14 430 6 640 8C720 9 800 12 870 10" stroke="#30243f" fill="none" stroke-opacity=".8"/>
+<path d="M-10 12C220 14 430 6 640 8C720 9 800 12 870 10" pathLength="100" fill="none" stroke="url(#dv)" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="12 108" stroke-dashoffset="-44" style="animation:dvrun 9s cubic-bezier(.45,0,.55,1) 0.0s infinite"/>
+</svg>

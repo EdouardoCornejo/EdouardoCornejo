@@ -1,0 +1,22 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-twilight.svg",
+    "backgroundColor": "#151021",
+    "foregroundColor": "#a695bd",
+    "strongColor": "#f0b48a",
+    "weakColor": "#6f6186",
+    "radarColor": "#b77df0",
+    "growingAnimation": true
+  },
+  {
+    "type": "season",
+    "fileName": "profile-twilight-season.svg",
+    "backgroundColor": "#151021",
+    "foregroundColor": "#a695bd",
+    "strongColor": "#f0b48a",
+    "weakColor": "#6f6186",
+    "radarColor": "#b77df0",
+    "growingAnimation": true
+  }
+]
