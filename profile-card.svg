@@ -4622,7 +4622,7 @@
   <g transform="translate(0, 68)">
     <path d="M 0,-12 C -4,-16 -6,-16 -6,-12 C -6,-8 0,0 0,0 C 0,0 6,-8 6,-12 C 6,-16 4,-16 0,-12 Z" fill="#D96C5F" />
     <circle cx="0" cy="-12" r="2.5" fill="#ffffff" />
-    <text x="14" y="-3" font-family="'Inter', sans-serif" font-weight="600" font-size="12" fill="#94a3b8">Manzanillo, Colima</text>
+    <text x="14" y="-3" font-family="'Inter', sans-serif" font-weight="600" font-size="12" fill="#94a3b8">Manzanillo, Colima, Mexico</text>
   </g>
     </g>
   </g>
@@ -4654,7 +4654,7 @@
     <!-- Commits / Altitude -->
     <g transform="translate(0, 0)">
       <text x="0" y="0" font-family="'Inter', sans-serif" font-weight="700" font-size="10" fill="#94a3b8" letter-spacing="1">ALTITUDE (COMMITS)</text>
-      <text x="0" y="20" font-family="'JetBrains Mono', monospace" font-weight="700" font-size="15" fill="#ffffff">1502 m</text>
+      <text x="0" y="20" font-family="'JetBrains Mono', monospace" font-weight="700" font-size="15" fill="#ffffff">1609 m</text>
     </g>
     
     <!-- Stars / Expedition -->
